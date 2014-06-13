@@ -1,0 +1,24 @@
+ICPSR 2896 - CODEBOOK
+
+TABLE OF CONTENTS
+DS7: 1850 Census (County and State)
+DS8: 1850 Census S01 (State Only)*126-132 Bank and Financial Data
+DS9: 1860 Census (County and State)
+DS10: 1860 Census S01 (State Only)*121-129 Bank and Financial Data
+DS11: 1870 Census (County and State)*169-170 Public Data
+DS12: 1870 Census S01 (State Only)
+DS13: 1870 Census S02 (State Only)
+DS14: 1870 Census S03 (State Only)
+DS15: 1880 Census (County and State)
+DS16: 1880 Census S01 (State Only)*292-314 Bond Data
+DS17: 1880 Census S02 (State Only)
+DS18: 1890 Census (County and State)*184-192 Mortgage and Interest Data
+DS19: 1890 Census S01 (State Only)
+DS20: 1900 Census (County and State)
+DS21: 1900 Census S01 (State Only)
+DS22: 1910 Census (County and State)
+DS23: 1910 Census S01 (State Only)
+DS24: 1920 Census (County and State)
+DS25: 1920 Census S01 (State Only)
+
+DS43: 1870 Manufacturng Data (County and State)
