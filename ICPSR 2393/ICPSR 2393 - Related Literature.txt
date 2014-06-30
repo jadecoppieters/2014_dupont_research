@@ -1,0 +1,29 @@
+Bibliography
+United States Historical Data on Bank Market Structure, 1896-1955
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 2393. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2014-06-22.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Dehejia, Rajeev; Lleras-Muney, Adriana, "Financial development and
+pathways of growth: State branching and deposit insurance laws in the
+United States, 1900–1940." Journal of Law and Economics. May 2007, 50, (2),
+239 - 272. DOI: 10.1086/511322
+
+2. Dehejia, Rajeev; Lleras-Muney, Adriana, "Why Does Financial Development
+Matter? The United States from 1900 to 1940." NBER Working Paper Series.
+9551, Cambridge, MA: National Bureau of Economic Research, Mar 2003.
+Abstract: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=386180
+
+3. Mitchener, Kris James; Richardson, Gary, "Does 'skin in the game' reduce
+risk taking? Leverage, liability and the long-run consequences of new deal
+banking reforms." Explorations in Economic History. Oct 2013, 50, (4), 508
+- 525. DOI: 10.1016/j.eeh.2013.06.002
+Abstract: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=386180

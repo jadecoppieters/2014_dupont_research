@@ -1,0 +1,28 @@
+File Manifest for ICPSR 2393
+
+Flood, Mark D. UNITED STATES HISTORICAL DATA ON BANK MARKET STRUCTURE,
+1896-1955. ICPSR version. Montreal, Quebec: Mark D. Flood, Concordia
+University [producer], 1998. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 1998.
+http://doi.org/10.3886/ICPSR02393.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    02393-related_literature.txt        -       -         -       2014-06-21  -
+
+    02393-manifest.txt                  -       -         -       2014-06-22  -
+
+
+DS0001 United States Historical Data on Bank Market Structure, 1896-1955
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    02393-0001-Codebook.txt             -       -         -       1998-04-06  9e5b1f768be99a4268ecc994908d961c
+
+    02393-0001-Data.txt                 817     3,061     92      1998-04-06  ea085831fcd4747183105dd74a521d36
+
